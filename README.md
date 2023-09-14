@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kartikey-here
+- 👀 I’m interested in Programming, Developing and Learning new technologies day by day.
+- 🌱 I’m currently in my final year of graduation BCA from UIM Prayagraj
+- 💞️ I’m looking for job/internship opportunities in the field of software development
+- 📫 How to reach me ... Contact me wtakartikey@gmail.com
